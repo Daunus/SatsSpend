@@ -12,13 +12,14 @@ This project can only work with community involvement. Please PM maintainers or 
 
 ### Sydney
 
-| **Type** | **Name** | **Location** | **Lightning** | **Other Comment** |
-|----------|----------|--------------|---------------|-------------------|
-|          |          |              |               |                   |
+| **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
+|----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
+|          |                     |                                         |               |                                                                  |
+| Retail   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | ? | Luxury pet products (eg, orthopedic dog beds)          |
 
 ### Melbourne
 
-| **Type** | **Name** | **Location** | **Lightning** | **Other Comment** |
+| **Type** | **Name** | **Location** | **Lightning** | **Comments**      |
 |----------|----------|--------------|---------------|-------------------|
 |          |          |              |               |                   |
 
@@ -26,27 +27,39 @@ This project can only work with community involvement. Please PM maintainers or 
 
 ### Adelaide
 
-| **Type** | **Name**            | **Location**                            | **Lightning** | **Other Comment**                                                     |
-|----------|---------------------|-----------------------------------------|---------------|-----------------------------------------------------------------------|
-| Barber   | Encrypted Barber    | 1a Union Street, Adelaide CBD, 5000     | Only          | a barber specialising in men's cuts                                   |
-| Bar      | The Little Red Door | 182b Hindley Street, Adelaide CBD, 5000 | No            | a bar and function venue. Have to ask the owner for Bitcoin payments. |
+| **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
+|----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
+| Barber   | Encrypted Barber    | 1a Union Street, Adelaide CBD, 5000  https://encryptedbarber.com/     | Only          | Barber specialising in men's cuts                                   |
+| Bar      | The Little Red Door | 182b Hindley Street, Adelaide CBD, 5000  https://littlereddoor.com.au/ | No            | Bar and function venue. Ask the owner for Bitcoin payments. |
 |          |                     |                                         |               |                                                                       |
 
 
 
 ### Brisbane
 
-| **Type** | **Name** | **Location** | **Lightning** | **Other Comment** |
+| **Type** | **Name** | **Location** | **Lightning** | **Comments** |
 |----------|----------|--------------|---------------|-------------------|
 |          |          |              |               |                   |
 
 
 
-### Online
+### Online / Australia-wide
 
-| **Type**   | **Location**                     | **Lightning** | **Other Comment**                  |   |
-|------------|----------------------------------|---------------|------------------------------------|---|
-| Gift Cards | https://bitcoingiftcards.com.au/ | ?             | Buy Aussie Gift cards with Bitcoin |   |
+| **Type**   | **Name**            | **Website**                        | **Lightning**  | **Comments**                                                        |
+|------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
+| Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
+| Retail     | BitShopping         | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
+| Retail     | Boardworld          | https://www.boardworld.com.au/     |  ?             | Snowboards, skateboards, and accessories                            |
+| Retail     | CultureKings        | https://www.culturekings.com.au/   |  ?             | Clothing (music-, sport-, and stree-twear)                          |
+| Retail     | Dream PC            | https://dreampc.com.au/            |  ?             | Custom computer builds                                              |
+| Retail     | Gumnut              | https://www.gumnut.com.au/         |  ?             | Board games, card games, tabletop games, miniatures, puzzles        |
+| Retail     | Pet Parlour         | https://petparlour.com.au/         |  ?             | Luxury pet products (eg, orthopedic dog beds)                       |
+| Retail     | Poison Arrow        | https://poisonarrow.com.au/        |  ?             | Retro and rockabilly clothing and homewares                         |
+| Retail     | Retro Girl          | https://retrogirl.co/              |  ?             | Rare and collectible vintage items (eg, jewellery and accessories)  |
+| Retail     | Zumi                | https://zumi.com.au/               |  ?             | Personal electronics (eg, audio, laptops, wearables)                |
+
+
+
 
 &nbsp;&nbsp;
 
@@ -75,6 +88,4 @@ For more comprehensive information on the ATO's tax treatment of spending (i.e.,
 <a href="https://bluewallet.io/">**Blue Wallet**</a> - iPhone and Android: Bitcoin mainnet/on-chain and Lightning wallet. Free and open source, single- and multi-signature, coin control features, batch spending, Tor connectivity, able to connect to own/chosen node (for both on-chain and Lightning).
 
 <a href="https://samouraiwallet.com/">**Samourai Wallet**</a> - Android only: Bitcoin mainnet/on-chain privacy-focused wallet. Free and open source, single-signature with passphrase, coinjoin and payjoin transactions, PayNym (BIP47) static stealth addresses, coin control features, batch spending, Tor connectivity. Recommended to use with full node. 
-
-
 
