@@ -1,12 +1,14 @@
 # Spend Sats in Australia
 
-This document is a compliation of businesses in Australia. The aim is to shelp Aussies upport these businesses by spending Bitcoin. 
+This is a list of Australian businesses that accept bitcoin. The aim is to help Aussies support these businesses by spending sats. 
 
-## We need You!
+## We need you!
 
-This can only work with community involvment. Please pm maintainers or comment below to help us keep this list uptodate
+This project can only work with community involvement. Please PM maintainers or comment below to help keep this list updated.
 
 &nbsp;&nbsp;
+
+## Business List
 
 ### Sydney
 
@@ -52,16 +54,27 @@ This can only work with community involvment. Please pm maintainers or comment b
 ---
 &nbsp;&nbsp;
 
-## Usefull Services
+## Useful Services
 
-https://www.livingroomofsatoshi.com/ - Allows Payment of bills using Bitcoin
+<a href="https://www.livingroomofsatoshi.com/">**Living Room of Satoshi**</a> - Allows payment of bills using bitcoin.
+
+&nbsp;&nbsp;
 
 ## Resources
+### Tax Guidance
+To spend bitcoin in Australia without incurring a Capital Gains Tax (CGT) event, you would ideally buy and spend your sats in line with the Australian Tax Office's <a href="https://www.ato.gov.au/general/gen/tax-treatment-of-crypto-currencies-in-australia---specifically-bitcoin/?page=2#Personal_use_asset">personal use asset guidance</a>. 
 
-??Some info on the ATO rules regarding using Bitcoin for spending in Australia?
+For more comprehensive information on the ATO's tax treatment of spending (i.e., "disposing of") bitcoin, see the ATO guide titled <a href="https://www.ato.gov.au/General/Gen/Tax-treatment-of-crypto-currencies-in-Australia---specifically-bitcoin/?anchor=Transactingwithcryptocurrency">Transacting with cryptocurrency</a> and the ATO fact sheet titled <a href="https://iorder.com.au/publication/Download.aspx?ProdID=75362-09.2021">Tax smart tips for your cryptocurrency (ID: 75362-09.2021)</a>.
 
-## Recommended Wallets for spending
+&nbsp;&nbsp;
 
-**Muun** - Iphone and android. Bitcoin mainnet and Lighting wallet. 
+## Recommended Spending Wallets
+
+<a href="https://muun.com/">**Muun Wallet**</a> - iPhone and Android: Bitcoin mainnet/on-chain and Lightning wallet. Free and open source, multi-signature, very user-friendly bitcoin and lightning integration. 
+
+<a href="https://bluewallet.io/">**Blue Wallet**</a> - iPhone and Android: Bitcoin mainnet/on-chain and Lightning wallet. Free and open source, single- and multi-signature, coin control features, batch spending, Tor connectivity, able to connect to own/chosen node (for both on-chain and Lightning).
+
+<a href="https://samouraiwallet.com/">**Samourai Wallet**</a> - Android only: Bitcoin mainnet/on-chain privacy-focused wallet. Free and open source, single-signature with passphrase, coinjoin and payjoin transactions, PayNym (BIP47) static stealth addresses, coin control features, batch spending, Tor connectivity. Recommended to use with full node. 
+
 
 
