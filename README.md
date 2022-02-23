@@ -27,6 +27,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Drones   | Dream Vision Sound | 4 Silverton Drive, Ferntree Gully VIC, 3156   https://dreamvisionsound.com/ | ? | DJI drone sales, repairs, and services    |
 | Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments. |
 | Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   https://glowgolf.com.au | No | Glow-in-the-dark black light mini-golf and bar |
+| Groceries    | USA Foods         | 67-73 Cochranes Rdoad, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!)   |
 
 
 
@@ -64,6 +65,7 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Website**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
+| Computers  | Another World Computer Centre | https://anotherworld.com.au/ | ?          | Computers, parts, and repairs                                       |
 | Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
 | Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
 | Snowboards & Skateboards | Boardworld | https://boardworld.com.au/    |  No            | Snowboards, skateboards, and accessories                            |
@@ -77,6 +79,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Clothing     | Poison Arrow      | https://poisonarrow.com.au/        |  No            | Retro and rockabilly clothing and homewares                         |
 | Accountant | Red Jay Advisory    | https://redjay.com.au/             |  ?             | Accounting and tax services (including cryptocurrencies)            |
 | Collectibles | Retro Girl        | https://retrogirl.co/              |  No            | Rare and collectible vintage items (eg, jewellery and accessories)  |
+| Groceries    | USA Foods         | https://usafoods.com.au/           |  ?             | All-American grocery store (in Australia!)                          |
 | Electronics  | Zumi              | https://zumi.com.au/               |  No            | Personal electronics (eg, audio, laptops, wearables)                |
 
 
