@@ -14,8 +14,8 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-|          |                     |                                         |               |                                                                  |
 | Retail   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | ? | Luxury pet products (eg, orthopedic dog beds)          |
+| Medical  | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| ? | Medical clinic specialising in heart conditions                |
 
 
 
@@ -50,6 +50,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type**     | **Name**            | **Location**                       | **Lightning**  | **Comments**                                                        |
 |--------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
 | Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | ? | Luxury accomodation                                |
+| Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | ? | Hotel accomodation, bar, and restaurant |
 
 
 
@@ -59,15 +60,16 @@ This project can only work with community involvement. Please PM maintainers or 
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
 | Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
 | Retail     | BitShopping         | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
-| Retail     | Boardworld          | https://www.boardworld.com.au/     |  ?             | Snowboards, skateboards, and accessories                            |
-| Retail     | CultureKings        | https://www.culturekings.com.au/   |  ?             | Clothing (music-, sport-, and stree-twear)                          |
+| Retail     | Boardworld          | https://boardworld.com.au/         |  ?             | Snowboards, skateboards, and accessories                            |
+| Retail     | CultureKings        | https://culturekings.com.au/       |  ?             | Clothing (music-, sport-, and stree-twear)                          |
 | Retail     | Dream PC            | https://dreampc.com.au/            |  ?             | Custom computer builds                                              |
-| Retail     | Gumnut              | https://www.gumnut.com.au/         |  ?             | Board games, card games, tabletop games, miniatures, puzzles        |
+| Retail     | Gumnut              | https://gumnut.com.au/             |  ?             | Board games, card games, tabletop games, miniatures, puzzles        |
+| Accountant | Kova Tx             | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies)            |
 | ISP        | Launtel             | https://launtel.net.au/            |  ?             | National Broadband Network (NBN) provider                           |
 | Retail     | Luxe Bouquet        | https://luxebouquet.com.au/        |  ?             | Florist                                                             |
 | Retail     | Pet Parlour         | https://petparlour.com.au/         |  ?             | Luxury pet products (eg, orthopedic dog beds)                       |
 | Retail     | Poison Arrow        | https://poisonarrow.com.au/        |  ?             | Retro and rockabilly clothing and homewares                         |
-| Accountant | Red Jay Advisory    | https://www.redjay.com.au/         |  ?             | Accounting and tax services (including cryptocurrencies)            |
+| Accountant | Red Jay Advisory    | https://redjay.com.au/             |  ?             | Accounting and tax services (including cryptocurrencies)            |
 | Retail     | Retro Girl          | https://retrogirl.co/              |  ?             | Rare and collectible vintage items (eg, jewellery and accessories)  |
 | Retail     | Zumi                | https://zumi.com.au/               |  ?             | Personal electronics (eg, audio, laptops, wearables)                |
 
