@@ -10,7 +10,7 @@ This project can only work with community involvement. Please PM maintainers or 
 
 ## Business List
 
-### Sydney
+### New South Wales
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
@@ -19,7 +19,7 @@ This project can only work with community involvement. Please PM maintainers or 
 
 
 
-### Melbourne
+### Victoria
 
 | **Type** | **Name** | **Location** | **Lightning** | **Comments**      |
 |----------|----------|--------------|---------------|-------------------|
@@ -27,20 +27,30 @@ This project can only work with community involvement. Please PM maintainers or 
 
 
 
-### Adelaide
+### South Australia
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Barber   | Encrypted Barber    | 1a Union Street, Adelaide CBD, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts                                   |
-| Bar      | The Little Red Door | 182b Hindley Street, Adelaide CBD, 5000  https://littlereddoor.com.au/ | No    | Bar and function venue. Ask the owner for Bitcoin payments. |
+| Barber   | Encrypted Barber    | 1a Union Street, Adelaide SA, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts                                   |
+| Bar      | The Little Red Door | 182b Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No    | Bar and function venue. Ask the owner for Bitcoin payments. |
 
 
-### Brisbane
+
+### Queensland
 
 | **Type**   | **Name**            | **Location**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | ? | Solar system and lighting installations |
-| Accomodation & Outdoor Activities | BIG4 Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South, NSW, 2486   https://tweedbillabong.com.au/ | ? | Holiday and amusement park |
+| Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | ? | Holiday and amusement park |
+
+
+
+### Western Australia
+
+| **Type**     | **Name**            | **Location**                       | **Lightning**  | **Comments**                                                        |
+|--------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
+| Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | ? | Luxury accomodation                                |
+
 
 
 ### Online / Australia-wide
