@@ -35,7 +35,8 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
 | Barber   | Encrypted Barber    | 1a Union Street, Adelaide SA, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts          |
-| Bar      | The Little Red Door | 182b Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No    | Bar and function venue. Ask the owner for bitcoin payments. |
+| Winery   | Talunga Estate      | 198D Torrens Valley Road, Gumeracha SA, 5233   https://talungaestate.com.au/ | No  | Winery and function venue             |
+| Bar      | The Little Red Door | 182b Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No | Bar and function venue. Ask the owner for bitcoin payments. |
 
 
 
