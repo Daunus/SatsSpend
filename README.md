@@ -65,6 +65,7 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Website**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
+| Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services
 | Computers  | Another World Computer Centre | https://anotherworld.com.au/ | ?          | Computers, parts, and repairs                                       |
 | Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
 | Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
@@ -75,6 +76,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Accountant | Kova Tax            | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies)            |
 | ISP        | Launtel             | https://launtel.net.au/            |  ?             | National Broadband Network (NBN) provider                           |
 | Florist    | Luxe Bouquet        | https://luxebouquet.com.au/        |  No            | Florist                                                             |
+| Bitcoin Support | Ministry of Nodes | https://ministryofnodes.com.au/consulting | Yes  | Consulting and assiatance with bitcoin self custody, nodes, privacy, etc |
 | Pet Supplies | Pet Parlour       | https://petparlour.com.au/         |  No            | Luxury pet products (eg, orthopedic dog beds)                       |
 | Clothing     | Poison Arrow      | https://poisonarrow.com.au/        |  No            | Retro and rockabilly clothing and homewares                         |
 | Accountant | Red Jay Advisory    | https://redjay.com.au/             |  ?             | Accounting and tax services (including cryptocurrencies)            |
