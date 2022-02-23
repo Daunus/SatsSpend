@@ -14,16 +14,19 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Retail   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | ? | Luxury pet products (eg, orthopedic dog beds)          |
-| Medical  | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| ? | Medical clinic specialising in heart conditions                |
+| Pet Supplies   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | No | Luxury pet products (eg, orthopedic dog beds)   |
+| Medical Clinic | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| No | Medical clinic specialising in heart conditions         |
 
 
 
 ### Victoria
 
-| **Type** | **Name** | **Location** | **Lightning** | **Comments**      |
-|----------|----------|--------------|---------------|-------------------|
-|          |          |              |               |                   |
+| **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
+|----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
+| Computers   | Another World Computer Centre | 429 Sydney Road, Coburg VIC, 3058   https://anotherworld.com.au/ | ? | Computers, parts, and repairs          |
+| Drones   | Dream Vision Sound | 4 Silverton Drive, Ferntree Gully VIC, 3156   https://dreamvisionsound.com/ | ? | DJI drone sales, repairs, and services    |
+| Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments. |
+| Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   https://glowgolf.com.au | No | Glow-in-the-dark black light mini-golf and bar |
 
 
 
@@ -31,8 +34,8 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Barber   | Encrypted Barber    | 1a Union Street, Adelaide SA, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts                                   |
-| Bar      | The Little Red Door | 182b Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No    | Bar and function venue. Ask the owner for Bitcoin payments. |
+| Barber   | Encrypted Barber    | 1a Union Street, Adelaide SA, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts          |
+| Bar      | The Little Red Door | 182b Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No    | Bar and function venue. Ask the owner for bitcoin payments. |
 
 
 
@@ -40,8 +43,8 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Location**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
-| Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | ? | Solar system and lighting installations |
-| Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | ? | Holiday and amusement park |
+| Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
+| Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
 
 
 
@@ -49,8 +52,8 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**     | **Name**            | **Location**                       | **Lightning**  | **Comments**                                                        |
 |--------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
-| Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | ? | Luxury accomodation                                |
-| Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | ? | Hotel accomodation, bar, and restaurant |
+| Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | No | Luxury accomodation                               |
+| Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | No | Hotel accomodation, bar, and restaurant |
 
 
 
@@ -59,19 +62,19 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type**   | **Name**            | **Website**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
 | Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
-| Retail     | BitShopping         | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
-| Retail     | Boardworld          | https://boardworld.com.au/         |  ?             | Snowboards, skateboards, and accessories                            |
-| Retail     | CultureKings        | https://culturekings.com.au/       |  ?             | Clothing (music-, sport-, and stree-twear)                          |
-| Retail     | Dream PC            | https://dreampc.com.au/            |  ?             | Custom computer builds                                              |
-| Retail     | Gumnut              | https://gumnut.com.au/             |  ?             | Board games, card games, tabletop games, miniatures, puzzles        |
-| Accountant | Kova Tx             | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies)            |
+| Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
+| Snowboards & Skateboards | Boardworld | https://boardworld.com.au/    |  No            | Snowboards, skateboards, and accessories                            |
+| Clothing   | CultureKings        | https://culturekings.com.au/       |  No            | Clothing (music-, sport-, and stree-twear)                          |
+| Computers  | Dream PC            | https://dreampc.com.au/            |  No            | Custom computer builds and repairs                                  |
+| Games      | Gumnut              | https://gumnut.com.au/             |  No            | Board games, card games, tabletop games, miniatures, puzzles        |
+| Accountant | Kova Tax            | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies)            |
 | ISP        | Launtel             | https://launtel.net.au/            |  ?             | National Broadband Network (NBN) provider                           |
-| Retail     | Luxe Bouquet        | https://luxebouquet.com.au/        |  ?             | Florist                                                             |
-| Retail     | Pet Parlour         | https://petparlour.com.au/         |  ?             | Luxury pet products (eg, orthopedic dog beds)                       |
-| Retail     | Poison Arrow        | https://poisonarrow.com.au/        |  ?             | Retro and rockabilly clothing and homewares                         |
+| Florist    | Luxe Bouquet        | https://luxebouquet.com.au/        |  No            | Florist                                                             |
+| Pet Supplies | Pet Parlour       | https://petparlour.com.au/         |  No            | Luxury pet products (eg, orthopedic dog beds)                       |
+| Clothing     | Poison Arrow      | https://poisonarrow.com.au/        |  No            | Retro and rockabilly clothing and homewares                         |
 | Accountant | Red Jay Advisory    | https://redjay.com.au/             |  ?             | Accounting and tax services (including cryptocurrencies)            |
-| Retail     | Retro Girl          | https://retrogirl.co/              |  ?             | Rare and collectible vintage items (eg, jewellery and accessories)  |
-| Retail     | Zumi                | https://zumi.com.au/               |  ?             | Personal electronics (eg, audio, laptops, wearables)                |
+| Collectibles | Retro Girl        | https://retrogirl.co/              |  No            | Rare and collectible vintage items (eg, jewellery and accessories)  |
+| Electronics  | Zumi              | https://zumi.com.au/               |  No            | Personal electronics (eg, audio, laptops, wearables)                |
 
 
 
