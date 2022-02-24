@@ -45,6 +45,7 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Location**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|----------------------------------------------------------------------|
+| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   | ?             | Coffee shop                                                    |
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
 | Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway               | 
 | Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
@@ -58,6 +59,13 @@ This project can only work with community involvement. Please PM maintainers or 
 | Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | No | Luxury accomodation                               |
 | Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | No | Hotel accomodation, bar, and restaurant |
 | Baseball Team | Perth Heat | https://bitcoinperthheat.com/ | ? | Baseball team on a bitcoin standard. Selling merchandise, memberships, and game tickets.      |
+
+
+
+### Northern Territory
+| **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
+|----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
+| Cafe     | Just Coffee Beans   | Parap and Nightcliff Markets, Darwin NT   https://justcoffee.com.au/ | ? | Coffee shop                                     |
 
 
 
