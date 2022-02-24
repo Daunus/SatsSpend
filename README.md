@@ -24,6 +24,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
 | Computers   | Another World Computer Centre | 429 Sydney Road, Coburg VIC, 3058   https://anotherworld.com.au/ | ? | Computers, parts, and repairs          |
+| Bicycles | Bike Factory Outlet | 92-92 Inkerman Street, St Kilda VIC, 3182   https://www.bikefo.com.au/ | ? | Bicycles, parts, tools, and accessories       |
 | Drones   | Dream Vision Sound | 4 Silverton Drive, Ferntree Gully VIC, 3156   https://dreamvisionsound.com/ | ? | DJI drone sales, repairs, and services    |
 | Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments. |
 | Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   https://glowgolf.com.au | No | Glow-in-the-dark black light mini-golf and bar |
@@ -57,6 +58,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type**     | **Name**            | **Location**                       | **Lightning**  | **Comments**                                                        |
 |--------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
 | Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | No | Luxury accomodation                               |
+| Home Builders | Broadwater Builds  | 21a Norman Street, Wembley Downs WA, 6019   https://broadwaterbuilds.com.au/ | ? | Building new homes, extensions, and renovations |
 | Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | No | Hotel accomodation, bar, and restaurant |
 | Baseball Team | Perth Heat | https://bitcoinperthheat.com/ | ? | Baseball team on a bitcoin standard. Selling merchandise, memberships, and game tickets.      |
 
@@ -73,8 +75,9 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Website**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
-| Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services
+| Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services                |
 | Computers  | Another World Computer Centre | https://anotherworld.com.au/ | ?          | Computers, parts, and repairs                                       |
+| Bicycles   | Bike Factory Outlet | https://www.bikefo.com.au/         | ?              | Bicycles, parts, tools, and accessories                             |
 | Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
 | Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
 | Snowboards & Skateboards | Boardworld | https://boardworld.com.au/    |  No            | Snowboards, skateboards, and accessories                            |
@@ -84,7 +87,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Accountant | Kova Tax            | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies)            |
 | ISP        | Launtel             | https://launtel.net.au/            |  ?             | National Broadband Network (NBN) provider                           |
 | Florist    | Luxe Bouquet        | https://luxebouquet.com.au/        |  No            | Florist                                                             |
-| Bitcoin Support | Ministry of Nodes | https://ministryofnodes.com.au/consulting | Yes  | Consulting and assiatance with bitcoin self custody, nodes, privacy, etc |
+| Bitcoin Support | Ministry of Nodes | https://ministryofnodes.com.au/consulting | Yes | Consulting and support with bitcoin self custody, nodes, privacy, etc |
 | Pet Supplies | Pet Parlour       | https://petparlour.com.au/         |  No            | Luxury pet products (eg, orthopedic dog beds)                       |
 | Clothing     | Poison Arrow      | https://poisonarrow.com.au/        |  No            | Retro and rockabilly clothing and homewares                         |
 | Accountant | Red Jay Advisory    | https://redjay.com.au/             |  ?             | Accounting and tax services (including cryptocurrencies)            |
