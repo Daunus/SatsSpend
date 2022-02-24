@@ -59,6 +59,7 @@ This project can only work with community involvement. Please PM maintainers or 
 |--------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
 | Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | No | Luxury accomodation                               |
 | Home Builders | Broadwater Builds  | 21a Norman Street, Wembley Downs WA, 6019   https://broadwaterbuilds.com.au/ | ? | Building new homes, extensions, and renovations |
+| Bar       | Frisk Small Bar  | 103 Francis Street, Northbridge WA, 6003   http://www.frisksmallbar.com.au/ | ? | Bar specialising in cocktails and gin         |
 | Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | No | Hotel accomodation, bar, and restaurant |
 | Baseball Team | Perth Heat | https://bitcoinperthheat.com/ | ? | Baseball team on a bitcoin standard. Selling merchandise, memberships, and game tickets.      |
 
