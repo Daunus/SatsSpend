@@ -27,7 +27,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Bicycles | Bike Factory Outlet | 92-92 Inkerman Street, St Kilda VIC, 3182   https://www.bikefo.com.au/ | ? | Bicycles, parts, tools, and accessories       |
 | Drones   | Dream Vision Sound | 4 Silverton Drive, Ferntree Gully VIC, 3156   https://dreamvisionsound.com/ | ? | DJI drone sales, repairs, and services    |
 | Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments. |
-| Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   https://glowgolf.com.au | No | Glow-in-the-dark black light mini-golf and bar |
+| Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   http://glowgolf.com.au | No | Glow-in-the-dark black light mini-golf and bar |
 | Groceries    | USA Foods         | 67-73 Cochranes Rdoad, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!)   |
 
 
