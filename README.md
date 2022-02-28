@@ -46,7 +46,7 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Location**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|----------------------------------------------------------------------|
-| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   | ?             | Coffee shop                                                    |
+| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   https://facebook.com/deathstarcanteenbrisbane | ?             | Coffee shop      |
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
 | Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway               | 
 | Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
