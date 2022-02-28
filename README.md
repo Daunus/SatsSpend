@@ -23,7 +23,7 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Computers   | Another World Computer Centre | 429 Sydney Road, Coburg VIC, 3058   https://anotherworld.com.au/ | ? | Computers, parts, and repairs          |
+| Computers   | Another World Computer Centre | 429 Sydney Road, Coburg VIC, 3058   https://anotherworld.com.au/ | Yes | Computers, parts, and repairs        |
 | Bicycles | Bike Factory Outlet | 92-92 Inkerman Street, St Kilda VIC, 3182   https://www.bikefo.com.au/ | ? | Bicycles, parts, tools, and accessories       |
 | Drones   | Dream Vision Sound | 4 Silverton Drive, Ferntree Gully VIC, 3156   https://dreamvisionsound.com/ | ? | DJI drone sales, repairs, and services    |
 | Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments. |
@@ -77,7 +77,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type**   | **Name**            | **Website**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
 | Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services                |
-| Computers  | Another World Computer Centre | https://anotherworld.com.au/ | ?          | Computers, parts, and repairs                                       |
+| Computers  | Another World Computer Centre | https://anotherworld.com.au/ | Yes        | Computers, parts, and repairs                                       |
 | Bicycles   | Bike Factory Outlet | https://www.bikefo.com.au/         | ?              | Bicycles, parts, tools, and accessories                             |
 | Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
 | Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
