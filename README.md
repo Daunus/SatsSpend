@@ -85,6 +85,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Clothing   | CultureKings        | https://culturekings.com.au/       |  No            | Clothing (music-, sport-, and stree-twear)                          |
 | Computers  | Dream PC            | https://dreampc.com.au/            |  No            | Custom computer builds and repairs                                  |
 | Games      | Gumnut              | https://gumnut.com.au/             |  No            | Board games, card games, tabletop games, miniatures, puzzles        |
+| Bitcoin Clothing & Accessories | Koined.Store | https://koined.store/ |  Yes           | Bitcoin clothing and accessories                                    |
 | Accountant | Kova Tax            | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies)            |
 | ISP        | Launtel             | https://launtel.net.au/            |  ?             | National Broadband Network (NBN) provider                           |
 | Florist    | Luxe Bouquet        | https://luxebouquet.com.au/        |  No            | Florist                                                             |
