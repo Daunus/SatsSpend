@@ -80,8 +80,9 @@ This project can only work with community involvement. Please PM maintainers or 
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
 | Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services                |
 | Computers  | Another World Computer Centre | https://anotherworld.com.au/ | Yes        | Computers, parts, and repairs                                       |
-| Bicycles   | Bike Factory Outlet | https://www.bikefo.com.au/         | ?              | Bicycles, parts, tools, and accessories                             |
+| Bicycles   | Bike Factory Outlet | https://www.bikefo.com.au/         |  ?             | Bicycles, parts, tools, and accessories                             |
 | Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
+| Bitcoin Support | Bitcoin Shepherd | https://thebitcoinshepherd.com/  |  ?             | Consulting and support to understand, buy, and self-custody bitcoin |
 | Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
 | Snowboards & Skateboards | Boardworld | https://boardworld.com.au/    |  No            | Snowboards, skateboards, and accessories                            |
 | Clothing   | CultureKings        | https://culturekings.com.au/       |  No            | Clothing (music-, sport-, and stree-twear)                          |
