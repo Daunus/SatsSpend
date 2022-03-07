@@ -1,6 +1,8 @@
 # Spend Sats in Australia
 
-This is a list of Australian businesses that accept bitcoin. The aim is to help Aussies support these businesses by spending sats. 
+SatsSpend a list of Australian businesses that accept bitcoin. The aim is to establish and encourage a circular economy in which Aussie bitcoiners can more easily spend their sats with bitcoin businesses (and so bitcoin businesses get the support they deserve!). 
+
+This list is **not** intended for bitcoin exchanges or third-party payment processors (e.g., to get paid in bitcoin or pay bills in bitcoin). There are already numerous lists of such intermediate businesses.
 
 ## We need you!
 
@@ -105,9 +107,11 @@ This project can only work with community involvement. Please PM maintainers or 
 ---
 &nbsp;&nbsp;
 
-## Useful Services
+## Useful Projects
 
-<a href="https://www.livingroomofsatoshi.com/">**Living Room of Satoshi**</a> - Allows payment of bills using bitcoin.
+<a href="https://btcpayserver.org/">**BTCPay Server**</a> - BTCPay Server is a free and open source self-hosted cryptocurrency payment processor.
+
+<a href="https://satsale.org/">**SatSale**</a> - SatSale is a free and open source self-hosted bitcoin-only payment processor.
 
 &nbsp;&nbsp;
 
