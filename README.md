@@ -99,6 +99,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Collectibles | Retro Girl        | https://retrogirl.co/              |  No            | Rare and collectible vintage items (eg, jewellery and accessories)  |
 | Groceries    | USA Foods         | https://usafoods.com.au/           |  ?             | All-American grocery store (in Australia!)                          |
 | Electronics  | Zumi              | https://zumi.com.au/               |  No            | Personal electronics (eg, audio, laptops, wearables)                |
+| Energy       | 1st Energy        | https://1stenergy.com.au/          |  No            | Residential and business energy retailer                            |
 
 
 
