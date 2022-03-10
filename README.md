@@ -91,6 +91,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Bitcoin Clothing & Accessories | Koined.Store | https://koined.store/ |  Yes           | Bitcoin clothing and accessories                                    |
 | Accountant | Kova Tax            | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies)            |
 | ISP        | Launtel             | https://launtel.net.au/            |  No            | Australia-wide Internet Service Provider                            |
+| Market     | Lightning Bazaar    | https://lightningbazaar.com/       |  Yes           | A marketplace with various goods and services for sale (eg, digital art, children's books, fruit, pure honey, etc) |
 | Florist    | Luxe Bouquet        | https://luxebouquet.com.au/        |  No            | Florist                                                             |
 | Bitcoin Support | Ministry of Nodes | https://ministryofnodes.com.au/consulting | Yes | Consulting and support with bitcoin self custody, nodes, privacy, etc |
 | Pet Supplies | Pet Parlour       | https://petparlour.com.au/         |  No            | Luxury pet products (eg, orthopedic dog beds)                       |
