@@ -101,6 +101,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Groceries    | USA Foods         | https://usafoods.com.au/           |  ?             | All-American grocery store (in Australia!)                          |
 | Electronics  | Zumi              | https://zumi.com.au/               |  No            | Personal electronics (eg, audio, laptops, wearables)                |
 | Energy       | 1st Energy        | https://1stenergy.com.au/          |  No            | Residential and business energy retailer                            |
+| Coffee Beans | 108 Specialty Coffee | https://108specialtycoffee.com/ |  ?             | Coffee beans and related products                                   |
 
 
 
