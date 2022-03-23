@@ -16,6 +16,7 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
+| Clothing & Jewellery | Esmira | 2 Locations: 12 Jacksons Road, Warriewood NSW, 2102 & 197-215 Condamine Street, Balgowlah NSW, 2093 | Yes | Clothing, jewellery, and homewares |
 | Pet Supplies   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | No | Luxury pet products (eg, orthopedic dog beds)   |
 | Medical Clinic | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| No | Medical clinic specialising in heart conditions         |
 
