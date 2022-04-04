@@ -50,6 +50,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type**   | **Name**            | **Location**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|----------------------------------------------------------------------|
 | Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   https://facebook.com/deathstarcanteenbrisbane | ?             | Coffee shop      |
+| Hosted Mining Facility | Mineracks | https://mineracks.com/  | ? | Selling ASIC and GPU mining rigs, as well as hosting services located in Brisbane CBD |
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
 | Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway               | 
 | Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
@@ -79,10 +80,11 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Website**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
-| Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services                |
+| Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services      |
 | Computers  | Another World Computer Centre | https://anotherworld.com.au/ | Yes        | Computers, parts, and repairs                                       |
 | Bicycles   | Bike Factory Outlet | https://www.bikefo.com.au/         |  ?             | Bicycles, parts, tools, and accessories                             |
-| Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin                                         |
+| Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin  |
+| Gift Cards | Bitswap             | https://bitswap.com.au/            | Yes            | Buy gift cards with Bitcoin  |
 | Bitcoin Support | Bitcoin Shepherd | https://thebitcoinshepherd.com/  |  ?             | Consulting and support to understand, buy, and self-custody bitcoin |
 | Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
 | Snowboards & Skateboards | Boardworld | https://boardworld.com.au/    |  No            | Snowboards, skateboards, and accessories                            |
