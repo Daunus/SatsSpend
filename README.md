@@ -1,6 +1,6 @@
 # Spend Sats in Australia
 
-SatsSpend a list of Australian businesses that accept bitcoin. The aim is to establish and encourage a circular economy in which Aussie bitcoiners can more easily spend their sats with bitcoin businesses (and so bitcoin businesses get the support they deserve!). 
+SatsSpend is a list of Australian businesses that accept bitcoin. The aim is to establish and encourage a circular economy in which Aussie bitcoiners can more easily spend their sats with bitcoin businesses (and so bitcoin businesses get the support they deserve!). 
 
 This list is **not** intended for bitcoin exchanges or third-party payment processors (e.g., to get paid in bitcoin or pay bills in bitcoin). There are already numerous lists of such intermediate businesses.
 
@@ -30,8 +30,8 @@ This project can only work with community involvement. Please PM maintainers or 
 | Bicycles | Bike Factory Outlet | 92-92 Inkerman Street, St Kilda VIC, 3182   https://www.bikefo.com.au/ | ? | Bicycles, parts, tools, and accessories       |
 | Drones   | Dream Vision Sound | 4 Silverton Drive, Ferntree Gully VIC, 3156   https://dreamvisionsound.com/ | ? | DJI drone sales, repairs, and services    |
 | Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments. |
-| Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   http://glowgolf.com.au | No | Glow-in-the-dark black light mini-golf and bar |
-| Groceries    | USA Foods         | 67-73 Cochranes Rdoad, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!)   |
+| Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   http://glowgolf.com.au/ | No | Glow-in-the-dark black light mini-golf and bar |
+| Groceries    | USA Foods         | 67-73 Cochranes Road, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!)   |
 
 
 
@@ -49,13 +49,13 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Location**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|----------------------------------------------------------------------|
-| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   https://facebook.com/deathstarcanteenbrisbane | Yes             | Coffee shop      |
-| Cafe | Crypto Coffee | 572 Brunswick St, New Farm QLD 4005 | No | https://www.instagram.com/accounts/login/?next=/cryptocoffeenewfarm/ |
-| Hosted Mining Facility | Mineracks | https://mineracks.com/  | ? | Selling ASIC and GPU mining rigs, as well as hosting services located in Brisbane CBD |
+| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   https://facebook.com/deathstarcanteenbrisbane/ | Yes   | Coffee shop  |
+| Cafe | Codie's Place | 7 Agnes St, Agnes Water QLD, 4677   https://codiesplace.com/ | Yes | Coffee shop |
+| Cafe | Crypto Coffee | 572 Brunswick St, New Farm QLD, 4005   https://instagram.com/cryptocoffeenewfarm/ | No |   Coffee shop |
+| Restaurant | Drift & Wood | 40 Captain Cook Dr, Agnes Water QLD, 4677   https://driftandwood.com.au/ | ? | Restaurant and bar |
+| Hosted Mining Facility | Mineracks | https://mineracks.com/  | ? | Selling ASIC and GPU mining rigs, as well as hosting services located in Brisbane |
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
-| Cafe | Codie's Place | 7 Agnes St, Agnes Water QLD 4677 | Yes | http://www.codiesplace.com/ |
-| Restuarant | Drift & Wood | 40 Captain Cook Dr, Agnes Water QLD 4677 | ? | https://driftandwood.com.au |
-| Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway               | 
+| Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway    | 
 | Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
 
 
