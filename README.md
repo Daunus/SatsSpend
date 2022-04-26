@@ -32,6 +32,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments. |
 | Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   http://glowgolf.com.au/ | No | Glow-in-the-dark black light mini-golf and bar |
 | Groceries    | USA Foods         | 67-73 Cochranes Road, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!)   |
+| Accomodation | Marc's AirBnB | Kalorama, VIC https://www.airbnb.com.au/rooms/592050871156761438 | Yes | AirBnB, contact Marc directly: marcfour@protonmail.com |
 
 
 
