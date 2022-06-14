@@ -17,6 +17,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
 | Clothing & Jewellery | Esmira | 2 Locations: 12 Jacksons Road, Warriewood NSW, 2102 & 197-215 Condamine Street, Balgowlah NSW, 2093 | Yes | Clothing, jewellery, and homewares |
+| Cabinetry | Hessell Property Group | North Narrabeen NSW, 2101    0432 434 844 | Yes | Custom Kitchens and Cabinets |
 | Pet Supplies   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | No | Luxury pet products (eg, orthopedic dog beds) |
 | Medical Clinic | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| No | Medical clinic specialising in heart conditions |
 
@@ -105,13 +106,13 @@ This project can only work with community involvement. Please PM maintainers or 
 | Clothing     | Poison Arrow      | https://poisonarrow.com.au/        |  No            | Retro and rockabilly clothing and homewares              |
 | Accountant | Red Jay Advisory    | https://redjay.com.au/             |  ?             | Accounting and tax services (including cryptocurrencies) |
 | Collectibles | Retro Girl        | https://retrogirl.co/              |  No            | Rare and collectible vintage items (eg, jewellery and accessories)  |
+| Bitcoin Clothing / Merchandise | The Bitcoin Only Store | https://bitcoinonly.store/ | No | Bitcoin-inspired clothing               |
+| Artisan Confectionary Products | Trois Bon | https://troisbon.com/ | Yes | Artisanally crafted salted caramel products              |
 | Groceries    | USA Foods         | https://usafoods.com.au/           |  ?             | All-American grocery store (in Australia!)               |
 | Graphic Design & Bitcoin Clothing / Merchandise | World of Rusty | https://worldofrusty.com/ | ? | Graphic design, and bitcoin clothing and other merchandise |
 | Electronics  | Zumi              | https://zumi.com.au/               |  No            | Personal electronics (eg, audio, laptops, wearables)     |
 | Energy       | 1st Energy        | https://1stenergy.com.au/          |  No            | Residential and business energy retailer                 |
 | Coffee Beans | 108 Specialty Coffee | https://108specialtycoffee.com/ |  ?             | Coffee beans and related products                        |
-| Bitcoin Clothing / Merchandise                  | The Bitcoin Only Store        | https://bitcoinonly.store/                | No            | Bitcoin-inspired clothing                                                                                          |
-| Artisan Products                                | Tois Bon                      | https://www.troisbon.com/                 | Yes           | Artisanally crafted salted caramel products.  
 
 &nbsp;&nbsp;
 
