@@ -110,7 +110,8 @@ This project can only work with community involvement. Please PM maintainers or 
 | Electronics  | Zumi              | https://zumi.com.au/               |  No            | Personal electronics (eg, audio, laptops, wearables)     |
 | Energy       | 1st Energy        | https://1stenergy.com.au/          |  No            | Residential and business energy retailer                 |
 | Coffee Beans | 108 Specialty Coffee | https://108specialtycoffee.com/ |  ?             | Coffee beans and related products                        |
-
+| Bitcoin Clothing / Merchandise                  | The Bitcoin Only Store        | https://bitcoinonly.store/                | No            | Bitcoin-inspired clothing                                                                                          |
+| Artisan Products                                | Tois Bon                      | https://www.troisbon.com/                 | Yes           | Artisanally crafted salted caramel products.  
 
 &nbsp;&nbsp;
 
