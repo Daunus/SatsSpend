@@ -1,6 +1,6 @@
 # Spend Sats in Australia
 
-SatsSpend is a list of Australian businesses that accept bitcoin. The aim is to establish and encourage a circular economy in which Aussie bitcoiners can more easily spend their sats with bitcoin businesses (and so bitcoin businesses get the support they deserve!). 
+SatsSpend is a list of Australian businesses that accept bitcoin. The aim of SatsSpend is to encourage a circular economy in which Aussie bitcoiners can more easily spend their sats with bitcoin businesses (and so bitcoin businesses get the support they deserve). 
 
 This list is **not** intended for bitcoin exchanges or third-party payment processors (e.g., to get paid in bitcoin or pay bills in bitcoin). There are already numerous lists of such intermediate businesses.
 
@@ -51,14 +51,16 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Location**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|----------------------------------------------------------------------|
-| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   https://facebook.com/deathstarcanteenbrisbane/ | Yes   | Coffee shop  |
 | Cafe | Codie's Place | 7 Agnes St, Agnes Water QLD, 4677   https://codiesplace.com/ | Yes | Coffee shop |
 | Cafe | Crypto Coffee | 572 Brunswick St, New Farm QLD, 4005   https://instagram.com/cryptocoffeenewfarm/ | No |   Coffee shop |
+| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   https://facebook.com/deathstarcanteenbrisbane/ | Yes   | Coffee shop  |
 | Restaurant | Drift & Wood | 40 Captain Cook Dr, Agnes Water QLD, 4677   https://driftandwood.com.au/ | ? | Restaurant and bar |
+| Health & Fitness | Furlani Fitness | 103 Edward St, Brisbane, QLD, 4000   https://furlanifitness.com.au/ | Yes | Coaching, nutrition, personal training, and meal-prep service |
 | Hosted Mining Facility | Mineracks | https://mineracks.com/  | ? | Selling ASIC and GPU mining rigs, as well as hosting services located in Brisbane |
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
 | Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway    | 
 | Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
+| Clothing & Barber | Urbanna | 106 Edward St, Brisbane QLD, 4000   https://urbbana.com.au/ | ? | Designer jackets, pants, shoes, and barber shop |
 
 
 
