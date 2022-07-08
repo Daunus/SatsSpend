@@ -33,7 +33,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments |
 | Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   http://glowgolf.com.au/ | No | Glow-in-the-dark black light mini-golf and bar |
 | Groceries    | USA Foods         | 67-73 Cochranes Road, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!) |
-| Accomodation | Marc's AirBnB | Kalorama, VIC https://www.airbnb.com.au/rooms/592050871156761438 | Yes | AirBnB, contact Marc directly: marcfour@protonmail.com |
+| Accommodation | Marc's AirBnB | Kalorama, VIC https://www.airbnb.com.au/rooms/592050871156761438 | Yes | AirBnB, contact Marc directly: marcfour@protonmail.com |
 
 
 
@@ -59,7 +59,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Hosted Mining Facility | Mineracks | https://mineracks.com/  | ? | Selling ASIC and GPU mining rigs, as well as hosting services located in Brisbane |
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
 | Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway    | 
-| Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
+| Accommodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
 | Clothing & Barber | Urbanna | 106 Edward St, Brisbane QLD, 4000   https://urbbana.com.au/ | ? | Designer jackets, pants, shoes, and barber shop |
 
 
@@ -68,10 +68,10 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**     | **Name**            | **Location**                       | **Lightning**  | **Comments**                                                        |
 |--------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
-| Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | No | Luxury accomodation                 |
+| Accommodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | No | Luxury accommodation                 |
 | Home Builders | Broadwater Builds  | 21A Norman Street, Wembley Downs WA, 6019   https://broadwaterbuilds.com.au/ | ? | Building new homes, extensions, and renovations |
 | Bar | Frisk Small Bar  | 103 Francis Street, Northbridge WA, 6003   http://www.frisksmallbar.com.au/ | ? | Bar specialising in cocktails and gin  |
-| Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | No | Hotel accomodation, bar, and restaurant |
+| Accommodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | No | Hotel accommodation, bar, and restaurant |
 | Baseball Team | Perth Heat | Empire Ballpark, corner of Nicholson and Wilfred Roads, Thornlie WA, 6108  https://perthheat.com.au/ | ? | Baseball team on a bitcoin standard. Selling merchandise, memberships, and game tickets  |
 
 
