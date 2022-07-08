@@ -41,9 +41,9 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Barber   | Encrypted Barber    | 1a Union Street, Adelaide SA, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts |
+| Barber   | Encrypted Barber    | 1A Union Street, Adelaide SA, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts |
 | Winery   | Talunga Estate      | 198D Torrens Valley Road, Gumeracha SA, 5233   https://talungaestate.com.au/ | No  | Winery and function venue    |
-| Bar      | The Little Red Door | 182b Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No | Bar and function venue. Ask the owner for bitcoin payments |
+| Bar      | The Little Red Door | 182B Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No | Bar and function venue. Ask the owner for bitcoin payments |
 
 
 
@@ -72,14 +72,14 @@ This project can only work with community involvement. Please PM maintainers or 
 | Home Builders | Broadwater Builds  | 21a Norman Street, Wembley Downs WA, 6019   https://broadwaterbuilds.com.au/ | ? | Building new homes, extensions, and renovations |
 | Bar | Frisk Small Bar  | 103 Francis Street, Northbridge WA, 6003   http://www.frisksmallbar.com.au/ | ? | Bar specialising in cocktails and gin  |
 | Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | No | Hotel accomodation, bar, and restaurant |
-| Baseball Team | Perth Heat | https://bitcoinperthheat.com/ | ? | Baseball team on a bitcoin standard. Selling merchandise, memberships, and game tickets  |
+| Baseball Team | Perth Heat | Empire Ballpark, corner of Nicholson and Wilfred Roads, Thornlie WA 6108  https://bitcoinperthheat.com/ | ? | Baseball team on a bitcoin standard. Selling merchandise, memberships, and game tickets  |
 
 
 
 ### Northern Territory
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Cafe     | Just Coffee Beans   | Parap and Nightcliff Markets, Darwin NT   https://justcoffee.com.au/ | ? | Coffee shop                            |
+| Cafe     | Just Coffee Beans   | Nightcliff Markets, 7 Pavonia Place, Progress Drive, Darwin NT, 0810   https://justcoffee.com.au/ | ? | Coffee shop |
 
 
 
@@ -140,7 +140,7 @@ For more comprehensive information on the ATO's tax treatment of spending (i.e.,
 
 ## Recommended Spending Wallets
 
-<a href="https://muun.com/">**Muun Wallet**</a> - iPhone and Android: Bitcoin mainnet/on-chain and Lightning wallet. Free and open source, multi-signature, very user-friendly bitcoin and lightning integration. 
+<a href="https://phoenix.acinq.co/">**Phoenix Wallet**</a> - iPhone and Android: Bitcoin Lightning wallet (handles on-chain transactions by swapping in/out of Lightning). Free and open source, very user-friendly bitcoin and Lightning integration; however, unable to connect to own/chosen node. 
 
 <a href="https://bluewallet.io/">**Blue Wallet**</a> - iPhone and Android: Bitcoin mainnet/on-chain and Lightning wallet. Free and open source, single- and multi-signature, coin control features, batch spending, Tor connectivity, able to connect to own/chosen node (for both on-chain and Lightning).
 
