@@ -124,25 +124,25 @@ This project can only work with community involvement. Please PM maintainers or 
 
 ## Useful Projects
 
-<a href="https://btcpayserver.org/">**BTCPay Server**</a> - BTCPay Server is a free and open source self-hosted cryptocurrency payment processor.
+<a href="https://btcpayserver.org/" target="blank">**BTCPay Server**</a> - BTCPay Server is a free and open source self-hosted cryptocurrency payment processor.
 
-<a href="https://satsale.org/">**SatSale**</a> - SatSale is a free and open source self-hosted bitcoin-only payment processor.
+<a href="https://satsale.org/" target="blank">**SatSale**</a> - SatSale is a free and open source self-hosted bitcoin-only payment processor.
 
 &nbsp;&nbsp;
 
 ## Resources
 ### Tax Guidance
-To spend bitcoin in Australia without incurring a Capital Gains Tax (CGT) event, you would ideally buy and spend your sats in line with the Australian Tax Office's <a href="https://www.ato.gov.au/general/gen/tax-treatment-of-crypto-currencies-in-australia---specifically-bitcoin/?page=2#Personal_use_asset">personal use asset guidance</a>. 
+To spend bitcoin in Australia without incurring a Capital Gains Tax (CGT) event, you would ideally buy and spend your sats in line with the <a href="https://www.ato.gov.au/Individuals/Investments-and-assets/Crypto-asset-investments/Crypto-as-a-personal-use-asset/" target="blank">Australian Tax Office's personal use asset guidance</a>.
 
-For more comprehensive information on the ATO's tax treatment of spending (i.e., "disposing of") bitcoin, see the ATO guide titled <a href="https://www.ato.gov.au/General/Gen/Tax-treatment-of-crypto-currencies-in-Australia---specifically-bitcoin/?anchor=Transactingwithcryptocurrency">Transacting with cryptocurrency</a> and the ATO fact sheet titled <a href="https://iorder.com.au/publication/Download.aspx?ProdID=75362-09.2021">Tax smart tips for your cryptocurrency (ID: 75362-09.2021)</a>.
+For more comprehensive information on the ATO's tax treatment of spending (i.e., "disposing of") bitcoin, see the ATO guide titled <a href="https://www.ato.gov.au/Individuals/Investments-and-assets/Crypto-asset-investments/Transactions---acquiring-and-disposing-of-crypto-assets/" target="blank">Transactions – acquiring and disposing of crypto assets</a>.
 
 &nbsp;&nbsp;
 
 ## Recommended Spending Wallets
 
-<a href="https://phoenix.acinq.co/">**Phoenix Wallet**</a> - iPhone and Android: Bitcoin Lightning wallet (handles on-chain transactions by swapping in/out of Lightning). Free and open source, very user-friendly bitcoin and Lightning integration; however, unable to connect to own/chosen node. 
+<a href="https://phoenix.acinq.co/" target="blank">**Phoenix Wallet**</a> - iPhone and Android: Bitcoin Lightning wallet (handles on-chain transactions by swapping in/out of Lightning). Free and open source, very user-friendly bitcoin and Lightning integration; however, unable to connect to own/chosen node. 
 
-<a href="https://bluewallet.io/">**Blue Wallet**</a> - iPhone and Android: Bitcoin mainnet/on-chain and Lightning wallet. Free and open source, single- and multi-signature, coin control features, batch spending, Tor connectivity, able to connect to own/chosen node (for both on-chain and Lightning).
+<a href="https://bluewallet.io/" target="blank">**Blue Wallet**</a> - iPhone and Android: Bitcoin mainnet/on-chain and Lightning wallet. Free and open source, single- and multi-signature, coin control features, batch spending, Tor connectivity, able to connect to own/chosen node (for both on-chain and Lightning).
 
-<a href="https://samouraiwallet.com/">**Samourai Wallet**</a> - Android only: Bitcoin mainnet/on-chain privacy-focused wallet. Free and open source, single-signature with passphrase, coinjoin and payjoin transactions, PayNym (BIP47) static stealth addresses, coin control features, batch spending, Tor connectivity. Recommended to use with full node. 
+<a href="https://samouraiwallet.com/" target="blank">**Samourai Wallet**</a> - Android only: Bitcoin mainnet/on-chain privacy-focused wallet. Free and open source, single-signature with passphrase, coinjoin and payjoin transactions, PayNym (BIP47) static stealth addresses, coin control features, batch spending, Tor connectivity. Recommended to use with full node. 
 
