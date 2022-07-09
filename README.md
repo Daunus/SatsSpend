@@ -20,7 +20,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Cabinetry | Hessell Property Group | North Narrabeen NSW, 2101    0432 434 844 | Yes | Custom Kitchens and Cabinets |
 | Pet Supplies   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | No | Luxury pet products (eg, orthopedic dog beds) |
 | Medical Clinic | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| No | Medical clinic specialising in heart conditions |
-
+| Accommodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
 
 
 ### Victoria
@@ -32,8 +32,8 @@ This project can only work with community involvement. Please PM maintainers or 
 | Drones   | Dream Vision Sound | 4 Silverton Drive, Ferntree Gully VIC, 3156   https://dreamvisionsound.com/ | ? | DJI drone sales, repairs, and services    |
 | Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments |
 | Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   http://glowgolf.com.au/ | No | Glow-in-the-dark black light mini-golf and bar |
-| Groceries    | USA Foods         | 67-73 Cochranes Road, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!) |
 | Accommodation | Marc's AirBnB | Kalorama, VIC https://www.airbnb.com.au/rooms/592050871156761438 | Yes | AirBnB, contact Marc directly: marcfour@protonmail.com |
+| Groceries    | USA Foods         | 67-73 Cochranes Road, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!)|
 
 
 
@@ -59,7 +59,6 @@ This project can only work with community involvement. Please PM maintainers or 
 | Hosted Mining Facility | Mineracks | https://mineracks.com/  | ? | Selling ASIC and GPU mining rigs, as well as hosting services located in Brisbane |
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
 | Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway    | 
-| Accommodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
 | Clothing & Barber | Urbbanna | 106 Edward St, Brisbane City QLD, 4000   https://urbbana.com.au/ | ? | Designer jackets, pants, shoes, and barber shop |
 
 
