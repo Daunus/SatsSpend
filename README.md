@@ -1,11 +1,11 @@
 # Spend Sats in Australia
 
 
-SatsSpend is a list of Australian businesses that accept bitcoin. The aim of SatsSpend is to encourage a circular economy in which Aussie bitcoiners can more easily spend their sats with bitcoin businesses (and so bitcoin businesses get the support they deserve). 
+SatsSpend is a list of Australian businesses that accept bitcoin.
 
 ## SatsSpend has moved! 
 
-You can view the full searchable business list, including an interactive map, here: https://mission-bitcoin.github.io/satsspend-australian_bitcoin_business_list/
+You can view the full searchable business list, including an interactive map, here: https://satsspend.com or https://mission-bitcoin.github.io/satsspend-australian_bitcoin_business_list/
 
 You can make site suggestions (eg, adding/modifying business details, general site improvements, etc) here: https://github.com/mission-bitcoin/satsspend-australian_bitcoin_business_list
 
@@ -15,7 +15,7 @@ You can make site suggestions (eg, adding/modifying business details, general si
 
 &nbsp;&nbsp;
 
-## Business List
+## Business List (out of date, see above links)
 
 ### New South Wales
 
